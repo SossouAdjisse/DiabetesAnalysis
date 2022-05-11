@@ -1,2 +1,2 @@
 # DiabetesAnalysis
-This project aim at analyzing diabetes using EDA (Exploratory Data Analysis)
+This project aim at analyzing diabetes in the Pima Indians tribe using EDA (Exploratory Data Analysis). Diabetes is one of the most frequent diseases worldwide, and the number of diabetic patients has been growing over the years. The leading cause of Diabetes remains unknown, yet scientists believe that both genetic factors and environmental lifestyle play a significant role in Diabetes. A few years ago, researchers studied a tribe in America called the Pima Indians (Pima tribe). In this tribe, the study showed that the ladies are prone to Diabetes very early.
